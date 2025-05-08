@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "8o+s3pda9dkusxzVAkCHrmF7UmydmT/X0KMEeXHab80A3YIEuxzqSMTD9ArlVGmQhxwuKtfW5y9iSuh4kpvG1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\ConexionSerialVIsualAutomatica\\conexionSerial\\conexionSerial\\conexionSerial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\9.0.3\\runtime.android-arm.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.android-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.android-x64.runtime.native.system.io.ports\\9.0.3\\runtime.android-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.android-x86.runtime.native.system.io.ports\\9.0.3\\runtime.android-x86.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\9.0.3\\runtime.linux-arm.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.linux-bionic-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-bionic-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.linux-bionic-x64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-bionic-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.linux-musl-arm.runtime.native.system.io.ports\\9.0.3\\runtime.linux-musl-arm.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.linux-musl-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-musl-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.linux-musl-x64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-musl-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\9.0.3\\runtime.linux-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.maccatalyst-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.maccatalyst-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.maccatalyst-x64.runtime.native.system.io.ports\\9.0.3\\runtime.maccatalyst-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.native.system.io.ports\\9.0.3\\runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\9.0.3\\runtime.osx-arm64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\9.0.3\\runtime.osx-x64.runtime.native.system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.codedom\\9.0.4\\system.codedom.9.0.4.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.io.ports\\9.0.3\\system.io.ports.9.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.management\\9.0.4\\system.management.9.0.4.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\winforms.datavisualization\\1.10.0\\winforms.datavisualization.1.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}
