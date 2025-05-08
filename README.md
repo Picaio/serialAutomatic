@@ -22,12 +22,6 @@ Este repositorio implementa una solución de conexión automática entre un disp
 
 ---
 
-## 📷 Vista previa
-
-> *(Agrega aquí una imagen de la interfaz con `chart1`, botones y gráfica en vivo)*
-
----
-
 ## ⚙️ Requisitos
 
 - Visual Studio 2022 o superior  
@@ -69,7 +63,7 @@ Este repositorio implementa una solución de conexión automática entre un disp
 
 ## 🎓 Créditos
 
-Proyecto creado por [nito1990](https://github.com/nito1990)  
+Proyecto creado por [nito1990](https://github.com/Picaio)  
 💡 Inspirado en la necesidad de simplificar la interacción Serial para proyectos IoT y makers
 
 ---
