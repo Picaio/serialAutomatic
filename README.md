@@ -63,7 +63,7 @@ Este repositorio implementa una solución de conexión automática entre un disp
 
 ## 🎓 Créditos
 
-Proyecto creado por [nito1990](https://github.com/Picaio)  
+Proyecto creado por [picaio](https://github.com/Picaio)  
 💡 Inspirado en la necesidad de simplificar la interacción Serial para proyectos IoT y makers
 
 ---
